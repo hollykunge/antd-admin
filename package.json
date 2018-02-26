@@ -18,6 +18,10 @@
   },
   "devDependencies": {
     "axios": "^0.15.3",
+    "axios": "^0.15.3",
+
+"axios": "^0.15.3",
+
     "babel-eslint": "^6.1.2",
     "babel-plugin-dev-expression": "^0.2.1",
     "babel-plugin-dva-hmr": "^0.3.2",
